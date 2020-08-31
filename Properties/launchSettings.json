@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KronaizlAsng8": {
+      "commandName": "Project",
+      "commandLineArgs": "test0.java"
+    }
+  }
+}
